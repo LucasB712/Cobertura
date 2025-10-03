@@ -2,7 +2,7 @@
 
 Framework Utilizado: Cobertura 
 
-Alunos: [Lucas Barreto](https://github.com/LucasB712) e [Gabriel](https://github.com/gqteles111)
+Alunos: [Lucas Barreto](https://github.com/LucasB712) e [Gabriel Teles](https://github.com/gqteles)
 
 ## 📝 Introdução
 ⚙️ Descrição do Framework
