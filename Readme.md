@@ -1,7 +1,8 @@
 # 🎯 Cobertura - Testes com Cobertura em Java
 
-Framework Utilizado: Cobertura (versão X.Y.Z)
-Alunos: Lucas e Gabriel
+Framework Utilizado: Cobertura 
+
+Alunos: [Lucas Barreto](https://github.com/LucasB712) e [Gabriel](https://github.com/gqteles111)
 
 ## 📝 Introdução
 ⚙️ Descrição do Framework
